@@ -17,6 +17,7 @@ https://drive.google.com/file/d/1rfy9u2T2swtI-kowG5wyzYMPi36TxCiE/view?fbclid=Iw
 3. Quick guide
  Login instructions.
 Access to: https://landingpage.soict.ai/AutoEmail to login the AutoEmail software. The screen will display as below:
+
 ![image](https://user-images.githubusercontent.com/64454372/117563382-ac473a00-b0cf-11eb-80dd-bc01bafa518d.png)
 
 Figure 3. Functional areas on the main interface
