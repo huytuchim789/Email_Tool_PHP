@@ -4,7 +4,8 @@
 
 言語：PHP,HTML,CSS,Bootstrap4,JavaScript
 フレームワーク：Codeigniter
-Link Web App Demo:http://autoemail.soict.ai/
+Link Web App Demo:
+http://autoemail.soict.ai/
 
 LandingPage：　
 http://sinno.soict.ai/
